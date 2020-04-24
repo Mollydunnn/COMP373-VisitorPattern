@@ -8,6 +8,7 @@ public class Client {
 	public static void main(String[] args) {
 		new Dress(24, "L50247", "Black", "Large", 4);
 		new Heels(30, "S53943", "Red", 10, 6);
+		
 		System.out.println("Dress information:");
 		System.out.println("Price: "+ Dress.getPrice());
 		System.out.println("Product Number: "+ Dress.getTagNumber());
