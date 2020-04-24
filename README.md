@@ -6,7 +6,7 @@ This is Nida Hameed and Molly Dunn's implementation of an example of the Visitor
   
 To Run: Open and run the Client.java file in the view package.  
 
-To Test: Run the testDress.java adn the testHeels.java files in teh model.testing package.  
+To Test: Run the testDress.java and the testHeels.java files in the model.testing package.  
 
 ## Summary. 
 
