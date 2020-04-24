@@ -10,7 +10,7 @@ import model.Dress;
 
 class testDress {
 
-	Dress dress= new Dress(24, "L50247", "Black", "Large", 4);
+	Dress dress= new Dress(0, null, null, null, 0);
 	
 	@BeforeEach
 	void setUp() throws Exception{

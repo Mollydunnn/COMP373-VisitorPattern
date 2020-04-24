@@ -10,7 +10,7 @@ import model.Heels;
 
 class testHeels {
 
-	Heels heels= new Heels(30, "S53943", "Red", 10, 6);
+	Heels heels= new Heels(0, null, null, 0, 0);
 	
 	@BeforeEach
 	void setUp() throws Exception{
