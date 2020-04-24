@@ -11,7 +11,7 @@ import model.Heels;
 class testHeels {
 
 	Heels heels= new Heels(0, null, null, 0, 0);
-	
+	//creating test object
 	
 	@BeforeEach
 	void setUp() throws Exception{

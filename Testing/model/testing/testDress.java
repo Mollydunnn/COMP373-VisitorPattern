@@ -11,7 +11,7 @@ import model.Dress;
 class testDress {
 
 	Dress dress= new Dress(0, null, null, null, 0);
-	
+	//creating test object
 	
 	@BeforeEach
 	void setUp() throws Exception{
